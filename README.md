@@ -2,4 +2,4 @@
 
 ## Lab HTML CSS Static Fullpage
 
-This is the firt lab
+This is the first lab
